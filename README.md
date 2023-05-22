@@ -1,11 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Computurtle</h1>
-<h3 align="center">A wannabe back-end developer</h3>
+<h3 align="center">Certified Game Developer, Studying Computer Science majoring in Software Engineering and Aspiring Content Creator (YouTube/Twitch)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=computurtle&label=Profile%20views&color=0e75b6&style=flat" alt="computurtle" /> </p>
 
-<p align="left"> <a href="https://twitter.com/computurtle_" target="blank"><img src="https://img.shields.io/twitter/follow/computurtle_?logo=twitter&style=for-the-badge" alt="computurtle_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/computurtledev" target="blank"><img src="https://img.shields.io/twitter/follow/computurtle_?logo=twitter&style=for-the-badge" alt="computurtledev" /></a> </p>
 
-- 🌱 I’m currently studying **Bachelor of Computer Science w/ Software Engineering Major**
+- 🌱 I’m currently studying **Bachelor of Computer Science majoring in Software Engineering**
 
 - 👯 I’m looking to collaborate on **Anything, literally anything**
 
