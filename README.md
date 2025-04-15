@@ -1,9 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Computurtle</h1>
-<h3 align="center">Certified Game Developer, Computer Science majoring in Software Engineering student and Aspiring Content Creator</h3>
+<h3 align="center">Certified Game Developer, Computer Science student majoring in Software Engineering and Aspiring Content Creator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=computurtle&label=Profile%20views&color=0e75b6&style=flat" alt="computurtle" /> </p>
-
-<p align="left"> <a href="https://twitter.com/computurtledev" target="blank"><img src="https://img.shields.io/twitter/follow/computurtledev?logo=twitter&style=for-the-badge" alt="computurtledev" /></a> </p>
 
 - 🌱 I’m currently studying **Bachelor of Computer Science majoring in Software Engineering**
 
